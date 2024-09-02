@@ -1,0 +1,4 @@
+.env
+.private/
+
+neo4j/
